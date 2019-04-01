@@ -1,3 +1,4 @@
+
 # Supplementary Materials for the Tinkering Humanist Series and Related Workshops
 
 
@@ -5,7 +6,7 @@ This repository is intended to supplement the workshops offered through the Digi
 
 ## Workshop Materials
 
-### Text Analysis with R - [Code/Data (All Sessions)](), [General Resource List]()
+### Text Analysis with R - [Code/Data (All Sessions)](), [General Resource List](https://burrowsdt.github.io/tawr_generalResourceGuide.html)
 The zip file linked above includes all of the code and data for all three sessions in the series, and the resource list is a more general collection of links concerning text analysis and R. For detailed comments and links concerning each session's topic, see below.
 
 **Session I: Introduction - [Code/Data]()**
@@ -43,6 +44,6 @@ There are other R packages devoted to sentiment analysis. Read about some of the
 **Session III: Stylometry and Stylo - [Code/Data]()**
 
 
-In Session III, we learned about stylometry and played with author attribution using the `stylo` package. The team that put `stylo` together has provided a variety of helpful documentation and descriptive material. Check out the [Usage section of their github repository](https://github.com/computationalstylistics/stylo#usage) for a good list of materials at different skill levels. You can browse the [Computational Stylistics Group website](https://computationalstylistics.github.io) for even more reading from the same team, including information about the ["rolling" functions](https://sites.google.com/site/computationalstylistics/projects/testing-rolling-stylometry). For a thorough examination of distance measurement in relation to stylometry, see "Understanding and explaining Delta measures for authorship attribution"(https://doi.org/10.1093/llc/fqx023) in *Digital Scholarship in the Humanities*, Vol. 32, Issue supplement 2. Finally, [this video about Principal Components Analysis](https://www.youtube.com/watch?v=jZ532ucT6Ik) may help demystify that particular type of analysis.
+In Session III, we learned about stylometry and played with author attribution using the `stylo` package. The team that put `stylo` together has provided a variety of helpful documentation and descriptive material. Check out the [Usage section of their github repository](https://github.com/computationalstylistics/stylo#usage) for a good list of materials at different skill levels. You can browse the [Computational Stylistics Group website](https://computationalstylistics.github.io) for even more reading from the same team, including information about the ["rolling" functions](https://sites.google.com/site/computationalstylistics/projects/testing-rolling-stylometry). For a thorough examination of distance measurement in relation to stylometry, see ["Understanding and explaining Delta measures for authorship attribution"](https://doi.org/10.1093/llc/fqx023) in *Digital Scholarship in the Humanities*. Finally, [this video about Principal Components Analysis](https://www.youtube.com/watch?v=jZ532ucT6Ik) may help demystify that particular type of analysis.
 
 A tutorial at the [Programming Historian](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python) walks you through doing similar tasks with Python. It also discusses the Federalist Papers in some detail.  
